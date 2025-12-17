@@ -36,6 +36,7 @@ function isPalindrome(arr) {
     }
 
     return true;
+    
 }
 
 //console.log("Is palindrome:", isPalindrome(ar1));
